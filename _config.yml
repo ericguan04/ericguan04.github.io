@@ -2,5 +2,7 @@ theme: jekyll-theme-minimal
 logo: Eric_Guan.png
 title: Eric Guan
 description: I am an undergraduate college student at CUNY Hunter College interested in the intersection between software engineering and machine learning research. In my free time, I like playing sports and reading.
+show_downloads: true
 github:
   LinkedIn: https://www.linkedin.com/in/ericguan04/
+  GitHub: https://github.com/ericguan04
