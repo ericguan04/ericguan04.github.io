@@ -1,5 +1,5 @@
 ## Education
-- B.A., Computer Science | Macaulay Honors at CUNY Hunter College (_Expected May 2026_)
+**B.A., Computer Science | Macaulay Honors at CUNY Hunter College (_Expected May 2026_)**
 
 ## Experience
 **Data Science Fellow | Microsoft (_June 2024_)**
