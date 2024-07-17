@@ -1,3 +1,8 @@
+## Links
+- [LinkedIn](https://www.linkedin.com/in/ericguan04/)
+- [GitHub](https://github.com/ericguan04)
+- [Resume](https://drive.google.com/file/d/1j7F5Hg7QUjYculezE6rMlkliM-fTgU2I/view?usp=sharing)
+
 ## Education
 **B.A., Computer Science | Macaulay Honors at CUNY Hunter College (_Expected May 2026_)**
 
