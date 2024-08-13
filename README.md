@@ -49,5 +49,3 @@
 - **Languages**: Python, C++, Java, R, HTML/CSS
 - **Developer Tools**: Git, VS Code, RStudio, JupyterLab, Linux, ROS
 - **Concepts**: Data Structures and Algorithms, Object-Oriented Programming, Machine Learning, Robotics
-
-test
